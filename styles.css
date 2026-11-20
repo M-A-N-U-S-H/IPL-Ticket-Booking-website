@@ -1,16 +1,17 @@
 :root {
-    --primary-color: #0d1b2a;
-    --secondary-color: #1b263b;
-    --accent-color: #e0a96d;
-    --accent-hover: #d49a5b;
-    --text-light: #ffffff;
-    --text-dark: #333333;
-    --bg-light: #f4f7f6;
-    --card-bg: #ffffff;
-    --border-color: #dddddd;
+    --primary-color: midnightblue;
+    --secondary-color: darkblue;
+    --accent-color: gold;
+    --accent-hover: orange;
+    --text-light: white;
+    --text-dark: black;
+    --bg-light: lightgray;
+    --card-bg: white;
+    --border-color: gray;
     --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     --transition: all 0.3s ease;
 }
+
 
 * {
     margin: 0;
